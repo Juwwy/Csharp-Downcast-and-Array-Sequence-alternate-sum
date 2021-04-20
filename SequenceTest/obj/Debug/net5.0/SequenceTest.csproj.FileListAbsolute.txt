@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\bin\Debug\net5.0\SequenceTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\bin\Debug\net5.0\SequenceTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\bin\Debug\net5.0\SequenceTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\bin\Debug\net5.0\SequenceTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\bin\Debug\net5.0\SequenceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\bin\Debug\net5.0\ref\SequenceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\bin\Debug\net5.0\SequenceTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\ref\SequenceTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask17\SequenceTest\obj\Debug\net5.0\SequenceTest.genruntimeconfig.cache
